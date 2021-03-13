@@ -1,1 +1,1 @@
-# Realizando una simple app con vue.js
+# Creando app con vue.js... Una Chuladaa ;) 
